@@ -1,8 +1,7 @@
 import React from 'react';
 import s from './Qualities.module.css'
 
-const Qualities = (props) => {
-    debugger
+const Qualitie = (props) => {
     return (
         <div className={props.q === 'позитивная' ? s.frame1:s.frame}>
             {props.q}
@@ -10,4 +9,4 @@ const Qualities = (props) => {
     )
 }
 
-export default Qualities;
+export default Qualitie;
