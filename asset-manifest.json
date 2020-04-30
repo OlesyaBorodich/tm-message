@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/telegram-massage/static/css/main.145f1725.chunk.css",
+    "main.js": "/telegram-massage/static/js/main.2ef133ea.chunk.js",
+    "main.js.map": "/telegram-massage/static/js/main.2ef133ea.chunk.js.map",
+    "runtime-main.js": "/telegram-massage/static/js/runtime-main.d7eba2ed.js",
+    "runtime-main.js.map": "/telegram-massage/static/js/runtime-main.d7eba2ed.js.map",
+    "static/js/2.e167b5fb.chunk.js": "/telegram-massage/static/js/2.e167b5fb.chunk.js",
+    "static/js/2.e167b5fb.chunk.js.map": "/telegram-massage/static/js/2.e167b5fb.chunk.js.map",
+    "index.html": "/telegram-massage/index.html",
+    "precache-manifest.aa50c98e507fe02031460a881035f46e.js": "/telegram-massage/precache-manifest.aa50c98e507fe02031460a881035f46e.js",
+    "service-worker.js": "/telegram-massage/service-worker.js",
+    "static/css/main.145f1725.chunk.css.map": "/telegram-massage/static/css/main.145f1725.chunk.css.map",
+    "static/js/2.e167b5fb.chunk.js.LICENSE.txt": "/telegram-massage/static/js/2.e167b5fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7eba2ed.js",
+    "static/js/2.e167b5fb.chunk.js",
+    "static/css/main.145f1725.chunk.css",
+    "static/js/main.2ef133ea.chunk.js"
+  ]
+}
